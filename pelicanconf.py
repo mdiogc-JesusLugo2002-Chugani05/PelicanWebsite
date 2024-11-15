@@ -3,6 +3,8 @@ SITENAME = 'RJM Technologies'
 SITEURL = ""
 
 PATH = "content"
+PAGE_PATHS = ['pages']
+
 
 TIMEZONE = 'Atlantic/Canary'
 
@@ -33,3 +35,7 @@ DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+
+ARTICLE_ORDER_BY = 'date' 
+PAGE_ORDER_BY = 'date'
