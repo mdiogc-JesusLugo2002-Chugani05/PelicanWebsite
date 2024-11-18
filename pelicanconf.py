@@ -37,3 +37,9 @@ DEFAULT_PAGINATION = 1
 
 ARTICLE_ORDER_BY = 'date' 
 PAGE_ORDER_BY = 'date'
+
+
+# Specify theme
+THEME = "output/theme/Just-Read"
+# STATIC_PATHS = ['images']
+# HEADER_IMAGE = "jesuslc.png"
