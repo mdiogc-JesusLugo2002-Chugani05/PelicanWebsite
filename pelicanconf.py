@@ -41,5 +41,5 @@ PAGE_ORDER_BY = 'date'
 
 # Specify theme
 THEME = "output/theme/Just-Read"
-# STATIC_PATHS = ['images']
-# HEADER_IMAGE = "jesuslc.png"
+STATIC_PATHS = ['output']
+HEADER_IMAGE = "theme/images/logo.png"
