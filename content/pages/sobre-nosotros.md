@@ -10,5 +10,6 @@ Con la idea de ser una agencia de código abierto (idealmente de software libre)
 
 La idea era tener dos caras de la moneda. Uno, un lado corporativo que pondría sus vastos años de experiencia para ayudar a otras empresas y, segundo, permitiría un espacio para la investigación de software y hardware y la innovación pura.
 
-Gracias a la dedicación de Rashi, ingenio de Jesus y versatilidad de Marina.
+Gracias a la dedicación de Rashi, ingenio de Jesus y versatilidad de Marina hemos podido desarrollar este negocio.
+
 Queremos dar especial agradecimiento a Sergio Delgado Quintero por siempre animarnos a no rendirnos y que explícito es mejor que implícito.
