@@ -39,7 +39,11 @@ ARTICLE_ORDER_BY = 'date'
 PAGE_ORDER_BY = 'date'
 
 
-# Specify theme
 THEME = "output/theme/Just-Read"
-STATIC_PATHS = ['output']
-HEADER_IMAGE = "theme/images/logo.png"
+
+
+DIRECT_TEMPLATES = ['index']
+
+
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
